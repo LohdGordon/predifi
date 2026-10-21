@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/github_actions/actions/cache-6",
+    "dependabot/github_actions/actions/setup-node-6",
+    "dependabot/github_actions/actions/upload-artifact-6",
+    "dependabot/github_actions/docker/setup-buildx-action-4",
+    "dependabot/github_actions/pnpm/action-setup-6",
+    "docs/issue-93-threat-model",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/github_actions/actions/cache-6": "main",
+    "dependabot/github_actions/actions/setup-node-6": "main",
+    "dependabot/github_actions/actions/upload-artifact-6": "main",
+    "dependabot/github_actions/docker/setup-buildx-action-4": "main",
+    "dependabot/github_actions/pnpm/action-setup-6": "main",
+    "docs/issue-93-threat-model": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/github_actions/actions/cache-6",
+    "dependabot/github_actions/actions/setup-node-6",
+    "dependabot/github_actions/actions/upload-artifact-6",
+    "dependabot/github_actions/docker/setup-buildx-action-4",
+    "dependabot/github_actions/pnpm/action-setup-6",
+    "docs/issue-93-threat-model",
+    "origin"
+  ]
+}
