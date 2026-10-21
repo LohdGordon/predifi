@@ -29,10 +29,7 @@ security-audit-report.md
 
 # Secret scanning and credential leak prevention local artifacts
 # Never commit real secrets or scanner reports that may contain matched values.
-.env
-.env.*
 !.env.example
-.env.local
 *.pem
 *.key
 *.p12*
@@ -50,3 +47,8 @@ secretscan-report.json
 secretscan-report.sarif
 secrets-baseline.json
 secrets-audit.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
